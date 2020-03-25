@@ -24,7 +24,7 @@ Veja em [frontend/README.md](./frontend) para informações sobre o Frontend e o
 
 <img align="center" src="./static/frontend.png"></img>
 
-## Imnsonia 
+## Insomnia 
 Para testar a API do Gerenciador de Contatos, baixe e instale o [Insomnia](https://insomnia.rest/download/) e em seguida clique na Workspace → `Import/Export` → `Import Data` → `From File` → e selecione o arquivo ` 	Insomnia_export.json` deste repositório. Assim que terminar, o resultado ficará assim:  
 
 <img align="center" src="./static/insomnia.png"></img>

@@ -22,7 +22,7 @@ function ContactForm({ onSubmit }) {
   }
 
   return (
-    <form onSubmit={handleSubmit}>
+    <form onSubmit={handleSubmit} autocomplete="off">
       <div className="input-block">
         <label htmlFor="name">Nome</label>
         <input name="name" 
